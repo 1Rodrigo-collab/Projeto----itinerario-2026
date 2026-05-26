@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jornada das Estrelas</title>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&family=Baloo+2:wght@500;700;800&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="stars-bg" id="starsBg"></div>
+
+  <div id="app">
+    <div class="game-header">
+      <div class="game-title">✨ Jornada das Estrelas</div>
+      <div class="game-subtitle">Um jogo para explorar, descobrir e se divertir</div>
+    </div>
+
+    <div class="phase-dots" id="phaseDots"></div>
+    <div class="score-badge" id="scoreBadge">Pontos: <span id="scoreVal">0</span> ⭐</div>
+
+    <div class="accessibility-bar">
+      <button id="calmModeBtn" class=" btn btn-ghost">
+        🌙 Modo calmo: OFF
+      </button>
+    </div>
+
+    <div id="gameArea"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
