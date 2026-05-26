@@ -1,4 +1,4 @@
-#🌟 Jornada das Estrelas#
+#🌟 Jornada das Estrelas
 
 Projeto acadêmico desenvolvido com foco em inclusão, aprendizado lúdico e acessibilidade para crianças com TEA (Transtorno do Espectro Autista), utilizando gamificação para estimular habilidades cognitivas de forma divertida e interativa.
 
