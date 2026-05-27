@@ -26,6 +26,7 @@ O projeto foi pensado com uma interface amigável, visual acolhedor, sons suaves
 📱 Interface responsiva
 💙 Tela de créditos personalizada
 🕹️ Fases do Jogo
+
 🎨 Fase 1 — Mundo das Cores
 
 A criança deve identificar cores iguais.
