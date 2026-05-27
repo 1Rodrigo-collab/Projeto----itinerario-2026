@@ -52,7 +52,6 @@ HTML5
 CSS3
 JavaScript Vanilla
 Web Speech API
-Web Audio API
 🎯 Objetivo
 
 Promover inclusão digital e aprendizado interativo através da gamificação, oferecendo uma ferramenta educativa acessível para crianças neurodivergentes.
